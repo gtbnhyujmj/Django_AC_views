@@ -1,2 +1,2 @@
-# Django_AC_views
-放 [Django] A/C 的 views.py &amp; urls.py 的地方。
+基本商城網站 \
+什麼都不用作，下載下來就可以開機了。
